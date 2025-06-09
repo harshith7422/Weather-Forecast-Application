@@ -4,8 +4,7 @@ A responsive weather application built using **React**, **TypeScript**, and **Ta
 
 ---
 
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/853dbee7-74fd-40b4-b104-a100bb617d71)
 
 ## 🚀 Features
 
