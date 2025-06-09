@@ -4,6 +4,9 @@ A responsive weather application built using **React**, **TypeScript**, and **Ta
 
 ---
 
+![Uploading image.png…]()
+
+
 ## 🚀 Features
 
 - Real-time weather data fetching
