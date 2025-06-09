@@ -27,9 +27,10 @@ A responsive weather application built using **React**, **TypeScript**, and **Ta
 ## 📦 Installation
 
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/weather-app.git
-   cd weather-app/project
+```bash
+git clone https://github.com/yourusername/weather-app.git
+cd weather-app/project
+```
 
 2. **Install dependencies**:
 ```bash
