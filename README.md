@@ -6,15 +6,6 @@ A responsive weather application built using **React**, **TypeScript**, and **Ta
 
 ![image](https://github.com/user-attachments/assets/853dbee7-74fd-40b4-b104-a100bb617d71)
 
-## 🚀 Features
-
-- Real-time weather data fetching
-- Location-based weather information
-- Responsive and mobile-friendly design
-- Built with Vite for blazing-fast development
-- Styled with Tailwind CSS
-- Clean TypeScript integration
-
 ---
 
 ## 🛠️ Tech Stack
